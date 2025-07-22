@@ -5,9 +5,9 @@ Page number
 of 3
 <h1 align="center"> Georgi Opnakov
 <p align="center">
-<a href="https://www.linkedin.com/in/georgi-opnakov-6b389993/">LinkedIn</a> •
+• <a href="https://www.linkedin.com/in/georgi-opnakov-6b389993/">LinkedIn</a> •
 </p>
----
+
 ## About Me
 I'm passionate about technology, specializing in data analytics.
 ---
@@ -18,7 +18,7 @@ I'm passionate about technology, specializing in data analytics.
 - Candidate selection
 ---
 ## Achievements
--- High-fived a bear.
+High-fived a bear.
 ---
 ## Certifications
 - ECDL
