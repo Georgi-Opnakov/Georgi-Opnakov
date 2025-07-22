@@ -3,48 +3,27 @@
 Page
 Page number
 of 3
-<h1 align="center"> Bechara Kaddoum
+<h1 align="center"> Georgi Opnakov
 <p align="center">
-<a href="[Your Website URL]">Website</a> •
-<a href="[LinkedIn URL]">LinkedIn</a> •
-<a href="[Twitter URL]">Twitter</a>
+<a href="https://www.linkedin.com/in/georgi-opnakov-6b389993/">LinkedIn</a> •
 </p>
 ---
 ## About Me
-I'm passionate about technology, specializing in cybersecurity. With 11 years of experience in the
-field, I'm dedicated to enhancing security, solving complex challenges, and sharing my knowledge
-with the community. XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+I'm passionate about technology, specializing in data analytics.
 ---
 ## Skills & Tools
 - Leadership
 - Management
 - Technical to non-technical
+- Candidate selection
 ---
 ## Achievements
-- 1st company sold in 2018
-- Head of cybersecurity
+-- High-fived a bear.
 ---
 ## Certifications
-- Certified Information Systems Security Professional (CISSP)
+- ECDL
 ---
 ## Projects
-- [Project 1]: [Project Description and Link]
-- [Project 2]: [Project Description and Link]
-- [Project 3]: [Project Description and Link]
----
-## Let's Connect
-You can find me on the web or reach out for collaboration and discussions on various platforms:
-- [Website](Your Website URL)
-- [LinkedIn](https://www.linkedin.com/in/becharakaddoum/)
-- [Twitter](Your Twitter URL)
----
-## GitHub Stats
-![Your GitHub stats](https://github-readme-
-stats.vercel.app/api?username=bkaddoum&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-
-langs/?username=bkaddoum&layout=compact)
----
-## Visitors
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=bkaddoum.bkaddoum)
+- [Project 1]: Europapress: Content Protection. Worked with the leading news agency in Spain. 1st phase; Designed a web crawler bot to scour the web and find content that was taken from the agency and identify potential clients. 2nd phase, designed a recommendation engine based on the Netflix recommendation algorithm for recommendation of bundled services to increase customer retention and conversion rate for new clients.
 ---
 ```markdown
